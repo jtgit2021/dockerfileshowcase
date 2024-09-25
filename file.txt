@@ -1,0 +1,1215 @@
+failed to get console mode for stdout: The handle is invalid.
+[1A[1B[0G[?25l[+] Building 0.0s (0/1)                                                         
+[?25h[1A[0G[?25l[+] Building 0.1s (2/3)                                                         
+[34m => [internal] load build definition from Dockerfile                       0.0s
+[0m[34m => => transferring dockerfile: 622B                                       0.0s
+[0m[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[?25h[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 0.2s (6/10)                                                        
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get in  0.1s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 0.4s (6/10)                                                        
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get in  0.3s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 0.5s (6/10)                                                        
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get in  0.4s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 0.7s (6/10)                                                        
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get in  0.6s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 0.8s (6/10)                                                        
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get in  0.7s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 1.0s (6/10)                                                        
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get in  0.9s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 1.2s (6/10)                                                        
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get in  1.0s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 1.3s (6/10)                                                        
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get in  1.2s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 1.5s (6/10)                                                        
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get in  1.3s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 1.6s (6/10)                                                        
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get in  1.5s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 1.8s (6/10)                                                        
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get in  1.6s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 1.9s (6/10)                                                        
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get in  1.8s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 2.0s (6/10)                                                        
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get in  1.9s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 2.2s (6/10)                                                        
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get in  2.1s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 2.3s (6/10)                                                        
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get in  2.2s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 2.5s (6/10)                                                        
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get in  2.4s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 2.6s (6/10)                                                        
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get in  2.5s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 2.8s (6/10)                                                        
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get in  2.7s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 2.9s (6/10)                                                        
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get in  2.8s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 3.1s (6/10)                                                        
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get in  3.0s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 3.2s (6/10)                                                        
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get in  3.1s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 3.4s (6/10)                                                        
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get in  3.3s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 3.5s (6/10)                                                        
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get in  3.4s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 3.7s (6/10)                                                        
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get in  3.6s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 3.8s (6/10)                                                        
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get in  3.7s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 4.0s (6/10)                                                        
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get in  3.9s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 4.1s (6/10)                                                        
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get in  4.0s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 4.3s (6/10)                                                        
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get in  4.2s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 4.4s (6/10)                                                        
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get in  4.3s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 4.6s (6/10)                                                        
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get in  4.5s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 4.7s (6/10)                                                        
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get in  4.6s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 4.9s (6/10)                                                        
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get in  4.8s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 5.0s (6/10)                                                        
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get in  4.9s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 5.2s (6/10)                                                        
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get in  5.1s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 5.3s (6/10)                                                        
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get in  5.2s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 5.4s (6/10)                                                        
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get in  5.3s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 5.6s (6/10)                                                        
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get in  5.5s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 5.7s (6/10)                                                        
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get in  5.6s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 5.9s (6/10)                                                        
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get in  5.7s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 6.0s (6/10)                                                        
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get in  5.9s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 6.2s (6/10)                                                        
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get in  6.0s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 6.3s (6/10)                                                        
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get in  6.2s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 6.5s (6/10)                                                        
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get in  6.3s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 6.6s (6/10)                                                        
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get in  6.4s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 6.7s (6/10)                                                        
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get in  6.6s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 6.9s (6/10)                                                        
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get in  6.7s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 7.0s (6/10)                                                        
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get in  6.9s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 7.2s (6/10)                                                        
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get in  7.0s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 7.3s (6/10)                                                        
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get in  7.2s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 7.5s (6/10)                                                        
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get in  7.3s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 7.6s (6/10)                                                        
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get in  7.5s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 7.8s (6/10)                                                        
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get in  7.7s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 7.9s (6/10)                                                        
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get in  7.8s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 8.1s (6/10)                                                        
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get in  8.0s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 8.2s (6/10)                                                        
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get in  8.1s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 8.4s (6/10)                                                        
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get in  8.3s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 8.5s (6/10)                                                        
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get in  8.4s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 8.6s (6/10)                                                        
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get in  8.5s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 8.8s (6/10)                                                        
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get in  8.7s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 8.9s (6/10)                                                        
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get in  8.8s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 9.1s (6/10)                                                        
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get in  9.0s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 9.2s (6/10)                                                        
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get in  9.1s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 9.4s (6/10)                                                        
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get in  9.2s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 9.5s (6/10)                                                        
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get in  9.4s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 9.7s (6/10)                                                        
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get in  9.5s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 9.8s (6/10)                                                        
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get in  9.7s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 10.0s (6/10)                                                       
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get in  9.8s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 10.1s (6/10)                                                       
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get i  10.0s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 10.3s (6/10)                                                       
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get i  10.1s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 10.4s (6/10)                                                       
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get i  10.3s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 10.6s (6/10)                                                       
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get i  10.4s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 10.7s (6/10)                                                       
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get i  10.6s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 10.9s (6/10)                                                       
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get i  10.7s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 11.0s (6/10)                                                       
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get i  10.9s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 11.2s (6/10)                                                       
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get i  11.0s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 11.3s (6/10)                                                       
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get i  11.2s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 11.5s (6/10)                                                       
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get i  11.3s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 11.6s (6/10)                                                       
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get i  11.5s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 11.8s (6/10)                                                       
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get i  11.6s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 11.9s (6/10)                                                       
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get i  11.8s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 12.1s (6/10)                                                       
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get i  12.0s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 12.2s (6/10)                                                       
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get i  12.1s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 12.4s (6/10)                                                       
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get i  12.3s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 12.5s (6/10)                                                       
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get i  12.4s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 12.7s (6/10)                                                       
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get i  12.5s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 12.8s (6/10)                                                       
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get i  12.7s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 13.0s (6/10)                                                       
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get i  12.8s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 13.1s (6/10)                                                       
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get i  13.0s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 13.3s (6/10)                                                       
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get i  13.1s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 13.4s (6/10)                                                       
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get i  13.3s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 13.5s (6/10)                                                       
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get i  13.4s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 13.6s (6/10)                                                       
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get i  13.5s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 13.8s (6/10)                                                       
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get i  13.7s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 13.9s (6/10)                                                       
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get i  13.8s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 14.0s (6/10)                                                       
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get i  13.9s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 14.2s (6/10)                                                       
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get i  14.1s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 14.3s (6/10)                                                       
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get i  14.2s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 14.5s (6/10)                                                       
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get i  14.4s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 14.6s (6/10)                                                       
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get i  14.5s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 14.7s (6/10)                                                       
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get i  14.6s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 14.8s (6/10)                                                       
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get i  14.7s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 14.9s (6/10)                                                       
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get i  14.8s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 15.0s (6/10)                                                       
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get i  14.9s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 15.1s (6/10)                                                       
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get i  15.0s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 15.3s (6/10)                                                       
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get i  15.1s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 15.4s (6/10)                                                       
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get i  15.3s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 15.5s (6/10)                                                       
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get i  15.4s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 15.6s (6/10)                                                       
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get i  15.5s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 15.7s (6/10)                                                       
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get i  15.6s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 15.8s (6/10)                                                       
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get i  15.7s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 16.0s (6/10)                                                       
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get i  15.9s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 16.1s (6/10)                                                       
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get i  16.0s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 16.3s (6/10)                                                       
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get i  16.2s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 16.4s (6/10)                                                       
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get i  16.3s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 16.5s (6/10)                                                       
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get i  16.4s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 16.7s (6/10)                                                       
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get i  16.6s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 16.8s (6/10)                                                       
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get i  16.7s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 17.0s (6/10)                                                       
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get i  16.9s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 17.1s (6/10)                                                       
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get i  17.0s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 17.3s (6/10)                                                       
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get i  17.1s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 17.4s (6/10)                                                       
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get i  17.3s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 17.5s (6/10)                                                       
+[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get i  17.4s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 17.7s (8/10)                                                       
+[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m[34m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get i  17.5s
+[0m[34m => [4/6] COPY script.sh /app/script.sh                                    0.1s
+[0m[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 17.8s (8/10)                                                       
+[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m[34m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get i  17.5s
+[0m[34m => [4/6] COPY script.sh /app/script.sh                                    0.1s
+[0m => [5/6] RUN chmod +x /app/script.sh                                      0.1s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 18.0s (8/10)                                                       
+[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m[34m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get i  17.5s
+[0m[34m => [4/6] COPY script.sh /app/script.sh                                    0.1s
+[0m => [5/6] RUN chmod +x /app/script.sh                                      0.3s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 18.1s (8/10)                                                       
+[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m[34m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get i  17.5s
+[0m[34m => [4/6] COPY script.sh /app/script.sh                                    0.1s
+[0m => [5/6] RUN chmod +x /app/script.sh                                      0.4s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 18.3s (9/10)                                                       
+[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m[34m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get i  17.5s
+[0m[34m => [4/6] COPY script.sh /app/script.sh                                    0.1s
+[0m[34m => [5/6] RUN chmod +x /app/script.sh                                      0.5s
+[0m => [6/6] RUN dos2unix /app/script.sh                                      0.1s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 18.4s (9/10)                                                       
+[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m[34m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get i  17.5s
+[0m[34m => [4/6] COPY script.sh /app/script.sh                                    0.1s
+[0m[34m => [5/6] RUN chmod +x /app/script.sh                                      0.5s
+[0m => [6/6] RUN dos2unix /app/script.sh                                      0.2s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 18.6s (9/10)                                                       
+[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m[34m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get i  17.5s
+[0m[34m => [4/6] COPY script.sh /app/script.sh                                    0.1s
+[0m[34m => [5/6] RUN chmod +x /app/script.sh                                      0.5s
+[0m => [6/6] RUN dos2unix /app/script.sh                                      0.4s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 18.7s (9/10)                                                       
+[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m[34m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get i  17.5s
+[0m[34m => [4/6] COPY script.sh /app/script.sh                                    0.1s
+[0m[34m => [5/6] RUN chmod +x /app/script.sh                                      0.5s
+[0m => [6/6] RUN dos2unix /app/script.sh                                      0.5s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 18.8s (10/10)                                                      
+[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m[34m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get i  17.5s
+[0m[34m => [4/6] COPY script.sh /app/script.sh                                    0.1s
+[0m[34m => [5/6] RUN chmod +x /app/script.sh                                      0.5s
+[0m[34m => [6/6] RUN dos2unix /app/script.sh                                      0.6s
+[0m[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 19.0s (10/11)                                                      
+[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m[34m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get i  17.5s
+[0m[34m => [4/6] COPY script.sh /app/script.sh                                    0.1s
+[0m[34m => [5/6] RUN chmod +x /app/script.sh                                      0.5s
+[0m[34m => [6/6] RUN dos2unix /app/script.sh                                      0.6s
+[0m => exporting to image                                                     0.1s
+ => => exporting layers                                                    0.1s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 19.1s (11/11) FINISHED                                             
+[34m => [internal] load build definition from Dockerfile                       0.0s
+[0m[34m => => transferring dockerfile: 622B                                       0.0s
+[0m[34m => [internal] load .dockerignore                                          0.0s
+[0m[34m => => transferring context: 2B                                            0.0s
+[0m[34m => [internal] load metadata for docker.io/library/ubuntu:latest           0.0s
+[0m[34m => [1/6] FROM docker.io/library/ubuntu:latest                             0.0s
+[0m[34m => [internal] load build context                                          0.0s
+[0m[34m => => transferring context: 30B                                           0.0s
+[0m[34m => CACHED [2/6] WORKDIR /app                                              0.0s
+[0m[34m => [3/6] RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get i  17.5s
+[0m[34m => [4/6] COPY script.sh /app/script.sh                                    0.1s
+[0m[34m => [5/6] RUN chmod +x /app/script.sh                                      0.5s
+[0m[34m => [6/6] RUN dos2unix /app/script.sh                                      0.6s
+[0m[34m => exporting to image                                                     0.2s
+[0m[34m => => exporting layers                                                    0.2s
+[0m[34m => => writing image sha256:95609331a63ef6c7f16233d87b9b670c3af0050334ec1  0.0s
+[0m[34m => => naming to docker.io/library/myimage:latest                          0.0s
+[0m[?25h
