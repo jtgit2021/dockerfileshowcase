@@ -31,4 +31,4 @@ jobs:
         context: .
         file: Dockerfile
         push: true
-        tags: myusername/myimage:latest  # Change this to your Docker Hub repository
+        tags: jtdocker2000/myimage:latest  # Change this to your Docker Hub repository
