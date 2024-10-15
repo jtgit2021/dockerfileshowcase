@@ -1,0 +1,13 @@
+version: '3'
+services:
+  app1:
+    image: jtdocker2000/myimage:latest  # Specify the latest tag explicitly
+    #ports:
+    #  - "9000:9000"  # Map port 9000 in the container to port 9000 on the host
+    restart: always  # Optional: Ensure container restarts on failure
+
+  app2:
+    image: jtdocker2000/myimage:latest  # Specify the image for the second app
+    #ports:
+    #  - "9001:9000"  # Map port 9000 in the container to port 9001 on the host
+    restart: always  # Ensure container restarts on failure
