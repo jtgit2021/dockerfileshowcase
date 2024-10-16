@@ -47,10 +47,10 @@ metadata:
 spec:
   selector:
     app: app1
-  #ports:
-  #  - protocol: TCP
-  #    port: 9000  # Port on which the service is exposed
-  #    targetPort: 9000  # Port in the container
+  ports:
+    - protocol: TCP
+      port: 9000  # Port on which the service is exposed
+      targetPort: 9000  # Port in the container
   type: ClusterIP  # Default type. This exposes the service on a cluster-internal IP
 
 ---
@@ -61,8 +61,8 @@ metadata:
 spec:
   selector:
     app: app2
-  #ports:
-  #  - protocol: TCP
-  #    port: 9001  
-  #    targetPort: 9000  
+  ports:
+    - protocol: TCP
+      port: 9001  
+      targetPort: 9000  
   type: ClusterIP  
