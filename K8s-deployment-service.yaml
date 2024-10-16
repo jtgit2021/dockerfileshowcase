@@ -15,6 +15,7 @@ spec:
       containers:
         - name: app1
           image: jtdocker2000/myimage:latest
+          #command: ["/bin/bash", "-c", "/app/script.sh; tail -f /dev/null"] #uncomment this if you want the container to stay alive
           # ports:
           #   - containerPort: 9000 
 
@@ -36,6 +37,7 @@ spec:
       containers:
         - name: app2
           image: jtdocker2000/myimage:latest
+          #command: ["/bin/bash", "-c", "/app/script.sh; tail -f /dev/null"]
           # ports:
           #   - containerPort: 9000 
 
